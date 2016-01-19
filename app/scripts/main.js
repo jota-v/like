@@ -1,3 +1,4 @@
+'use strict';
 
 function meliLike() {
   var heart = '[data-js="btnLike"]';

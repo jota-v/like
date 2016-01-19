@@ -1,0 +1,1 @@
+"use strict";function meliLike(){var i='[data-js="btnLike"]';$(i).on("click",function(){$(this).toggleClass("like--on")})}meliLike();
